@@ -1,0 +1,1002 @@
+﻿;Id;TA_RULE;TA_COUNTER;TA_TOKEN;TA_LANGUAGE;TA_TYPE;TA_NORMALIZED;TA_STEM;TA_PARAGRAPH;TA_SENTENCE;TA_CREATED_AT;TA_OFFSET;TA_PARENT
+238;805549420418859008;Entity Extraction;9;watch;en;Request;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;95;Error in reading value (type 4): rs.getBigInt(...) is null
+411;805545048452513792;Entity Extraction;9;MAGA;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;79;Error in reading value (type 4): rs.getBigInt(...) is null
+67;805550732762083328;Entity Extraction;9;MAGA;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;79;Error in reading value (type 4): rs.getBigInt(...) is null
+707;805540766433112064;Entity Extraction;9;#malcomx;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;91;Error in reading value (type 4): rs.getBigInt(...) is null
+687;805541314427166720;Entity Extraction;9;1u;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;2;2;Mon, 05 Dec 2016 05:19:07 GMT;135;Error in reading value (type 4): rs.getBigInt(...) is null
+675;805541363345461248;Entity Extraction;9;#malcomx;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;91;Error in reading value (type 4): rs.getBigInt(...) is null
+167;805549985353891845;Entity Extraction;9;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;98;Error in reading value (type 4): rs.getBigInt(...) is null
+183;805548731135381504;Entity Extraction;9;https://t.co/2usNvWXfwX;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;117;Error in reading value (type 4): rs.getBigInt(...) is null
+192;805547617744605184;Entity Extraction;9;https://t.co/p9B73XOzOb;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;104;Error in reading value (type 4): rs.getBigInt(...) is null
+607;805540681963827200;Entity Extraction;9;#malcomx;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;91;Error in reading value (type 4): rs.getBigInt(...) is null
+54;805548441875136512;Entity Extraction;9;#VotePeacefully;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;4;Mon, 05 Dec 2016 05:19:06 GMT;125;Error in reading value (type 4): rs.getBigInt(...) is null
+576;805540636640165888;Entity Extraction;9;MAGA;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;79;Error in reading value (type 4): rs.getBigInt(...) is null
+249;805548912534847488;Entity Extraction;9;AuditTheVote;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;124;Error in reading value (type 4): rs.getBigInt(...) is null
+487;805543213331312640;Entity Extraction;9;CyberSecurity;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;116;Error in reading value (type 4): rs.getBigInt(...) is null
+310;805545663450808322;Entity Extraction;9;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;90;Error in reading value (type 4): rs.getBigInt(...) is null
+329;805545604445327362;Entity Extraction;9;ElectoralCollege;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;97;Error in reading value (type 4): rs.getBigInt(...) is null
+339;805545388937740288;Entity Extraction;9;ElectoralCollege;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;97;Error in reading value (type 4): rs.getBigInt(...) is null
+349;805545257643442176;Entity Extraction;9;ElectoralCollege;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;97;Error in reading value (type 4): rs.getBigInt(...) is null
+365;805546908496240640;Entity Extraction;9;weapon;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;68;8
+237;805549420418859008;Entity Extraction;8;watch;en;GeneralRequest;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;95;9
+706;805540766433112064;Entity Extraction;8;hearing him;en;Topic;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;72;6
+206;805547236868390912;Entity Extraction;8;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+139;805547694949302272;Entity Extraction;8;https://t.co/ks9rbAC6VY;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;115;Error in reading value (type 4): rs.getBigInt(...) is null
+606;805540681963827200;Entity Extraction;8;hearing him;en;Topic;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;72;6
+598;805543334789992448;Entity Extraction;8;https://t.co/JYKBoImaFW;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;55;Error in reading value (type 4): rs.getBigInt(...) is null
+221;805549845633179650;Entity Extraction;8;AuditTheV;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;130;Error in reading value (type 4): rs.getBigInt(...) is null
+229;805549461434994688;Entity Extraction;8;https://t.co/IgxdzXHrfW;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;117;Error in reading value (type 4): rs.getBigInt(...) is null
+41;805550499382575104;Entity Extraction;8;berniewarren2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;121;Error in reading value (type 4): rs.getBigInt(...) is null
+66;805550732762083328;Entity Extraction;8;TrumpWon;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;69;Error in reading value (type 4): rs.getBigInt(...) is null
+686;805541314427166720;Entity Extraction;8;TrojanHorse;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;2;2;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+575;805540636640165888;Entity Extraction;8;TrumpWon;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;69;Error in reading value (type 4): rs.getBigInt(...) is null
+248;805548912534847488;Entity Extraction;8;#Recount2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;110;Error in reading value (type 4): rs.getBigInt(...) is null
+53;805548441875136512;Entity Extraction;8;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;4;Mon, 05 Dec 2016 05:19:06 GMT;107;Error in reading value (type 4): rs.getBigInt(...) is null
+567;805540939716501504;Entity Extraction;8;NeverTrump;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;130;Error in reading value (type 4): rs.getBigInt(...) is null
+268;805546691751358464;Entity Extraction;8;https://t.co/jp9gqA0GZ7;en;URI/URL;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;114;Error in reading value (type 4): rs.getBigInt(...) is null
+504;805541119052288000;Entity Extraction;8;Global Politics;en;PROP_MISC;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;107;Error in reading value (type 4): rs.getBigInt(...) is null
+496;805543618085720064;Entity Extraction;8;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;106;Error in reading value (type 4): rs.getBigInt(...) is null
+674;805541363345461248;Entity Extraction;8;hearing him;en;Topic;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;72;6
+486;805543213331312640;Entity Extraction;8;Inc;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;111;Error in reading value (type 4): rs.getBigInt(...) is null
+309;805545663450808322;Entity Extraction;8;JillStein;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;78;Error in reading value (type 4): rs.getBigInt(...) is null
+166;805549985353891845;Entity Extraction;8;fair;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;92;Error in reading value (type 4): rs.getBigInt(...) is null
+467;805543850316070912;Entity Extraction;8;https://t.co/PR6pMl1Yw4;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;91;Error in reading value (type 4): rs.getBigInt(...) is null
+328;805545604445327362;Entity Extraction;8;Denial;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;89;Error in reading value (type 4): rs.getBigInt(...) is null
+111;805547865246461953;Entity Extraction;8;#election;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;109;Error in reading value (type 4): rs.getBigInt(...) is null
+443;805544067597828096;Entity Extraction;8;https://t.co/Z19tm;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;121;Error in reading value (type 4): rs.getBigInt(...) is null
+338;805545388937740288;Entity Extraction;8;Denial;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;89;Error in reading value (type 4): rs.getBigInt(...) is null
+182;805548731135381504;Entity Extraction;8;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;113;Error in reading value (type 4): rs.getBigInt(...) is null
+435;805544401833488385;Entity Extraction;8;https://t.co/JYKBoImaFW;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;55;Error in reading value (type 4): rs.getBigInt(...) is null
+348;805545257643442176;Entity Extraction;8;Denial;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;89;Error in reading value (type 4): rs.getBigInt(...) is null
+381;805546599908679680;Entity Extraction;8;https://t.co/jp9gqA0GZ7;en;URI/URL;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;114;Error in reading value (type 4): rs.getBigInt(...) is null
+364;805546908496240640;Entity Extraction;8;deadly weapon;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;61;Error in reading value (type 4): rs.getBigInt(...) is null
+632;805541178670280704;Entity Extraction;8;hillaryclinton;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;116;Error in reading value (type 4): rs.getBigInt(...) is null
+191;805547617744605184;Entity Extraction;8;Independent;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;92;Error in reading value (type 4): rs.getBigInt(...) is null
+410;805545048452513792;Entity Extraction;8;TrumpWon;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;69;Error in reading value (type 4): rs.getBigInt(...) is null
+13;805547517291151361;Entity Extraction;7;NeverTrump;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;115;Error in reading value (type 4): rs.getBigInt(...) is null
+236;805549420418859008;Entity Extraction;7;right on target;en;WeakPositiveSentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;73;6
+110;805547865246461953;Entity Extraction;7;#voting;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;99;Error in reading value (type 4): rs.getBigInt(...) is null
+673;805541363345461248;Entity Extraction;7;love;en;StrongPositiveSentiment;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;67;6
+165;805549985353891845;Entity Extraction;7;fair;en;WeakPositiveSentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;92;8
+31;805547502736916480;Entity Extraction;7;NeverTrump;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;115;Error in reading value (type 4): rs.getBigInt(...) is null
+574;805540636640165888;Entity Extraction;7;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;55;Error in reading value (type 4): rs.getBigInt(...) is null
+247;805548912534847488;Entity Extraction;7;need;en;GeneralRequest;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;94;5
+118;805550304586596358;Entity Extraction;7;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;126;Error in reading value (type 4): rs.getBigInt(...) is null
+660;805542390861680640;Entity Extraction;7;#SocialMedia;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;2;2;Mon, 05 Dec 2016 05:19:07 GMT;115;Error in reading value (type 4): rs.getBigInt(...) is null
+648;805540933198639104;Entity Extraction;7;election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;117;Error in reading value (type 4): rs.getBigInt(...) is null
+566;805540939716501504;Entity Extraction;7;election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;116;Error in reading value (type 4): rs.getBigInt(...) is null
+548;805542193574219777;Entity Extraction;7;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;121;Error in reading value (type 4): rs.getBigInt(...) is null
+267;805546691751358464;Entity Extraction;7;speed-up request;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;79;Error in reading value (type 4): rs.getBigInt(...) is null
+181;805548731135381504;Entity Extraction;7;disregard;en;WeakNegativeSentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;93;5
+278;805546328738725889;Entity Extraction;7;IACaucus;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;93;Error in reading value (type 4): rs.getBigInt(...) is null
+125;805549812959629312;Entity Extraction;7;https://t.co/L35gfqm1al;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;106;Error in reading value (type 4): rs.getBigInt(...) is null
+285;805546326339551232;Entity Extraction;7;IACaucus;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;93;Error in reading value (type 4): rs.getBigInt(...) is null
+503;805541119052288000;Entity Extraction;7;Multiculturalism;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;6
+40;805550499382575104;Entity Extraction;7;TrumpACandy;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;108;Error in reading value (type 4): rs.getBigInt(...) is null
+495;805543618085720064;Entity Extraction;7;DonaldTrump;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;93;Error in reading value (type 4): rs.getBigInt(...) is null
+65;805550732762083328;Entity Extraction;7;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;55;Error in reading value (type 4): rs.getBigInt(...) is null
+190;805547617744605184;Entity Extraction;7;altright;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;82;Error in reading value (type 4): rs.getBigInt(...) is null
+485;805543213331312640;Entity Extraction;7;https://t.co/bLXMswREO1;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;86;Error in reading value (type 4): rs.getBigInt(...) is null
+301;805546002920960001;Entity Extraction;7;https://t.co/p6HheXy8gD;en;URI/URL;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;91;Error in reading value (type 4): rs.getBigInt(...) is null
+474;805543752190361601;Entity Extraction;7;@NAACP;en;SOCIAL_MEDIA/ID_TWITTER;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;125;Error in reading value (type 4): rs.getBigInt(...) is null
+308;805545663450808322;Entity Extraction;7;Hillary;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;69;Error in reading value (type 4): rs.getBigInt(...) is null
+705;805540766433112064;Entity Extraction;7;love;en;StrongPositiveSentiment;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;67;6
+138;805547694949302272;Entity Extraction;7;https://t.co/mT5ywPQZ4W;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;91;Error in reading value (type 4): rs.getBigInt(...) is null
+631;805541178670280704;Entity Extraction;7;election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;102;Error in reading value (type 4): rs.getBigInt(...) is null
+466;805543850316070912;Entity Extraction;7;Criticism;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;81;4
+320;805545660300795904;Entity Extraction;7;https://t.co/LR4tWynaJs;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;72;Error in reading value (type 4): rs.getBigInt(...) is null
+450;805544291993092096;Entity Extraction;7;https://t.co/zi7GCVQTyF;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;60;Error in reading value (type 4): rs.getBigInt(...) is null
+327;805545604445327362;Entity Extraction;7;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;74;Error in reading value (type 4): rs.getBigInt(...) is null
+624;805541944403165184;Entity Extraction;7;https://t.co/wR0Ar6xdvL;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;107;Error in reading value (type 4): rs.getBigInt(...) is null
+205;805547236868390912;Entity Extraction;7;https://t.co/JeQtP8I9UO;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;71;Error in reading value (type 4): rs.getBigInt(...) is null
+380;805546599908679680;Entity Extraction;7;speed-up request;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;79;Error in reading value (type 4): rs.getBigInt(...) is null
+442;805544067597828096;Entity Extraction;7;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;108;Error in reading value (type 4): rs.getBigInt(...) is null
+337;805545388937740288;Entity Extraction;7;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;74;Error in reading value (type 4): rs.getBigInt(...) is null
+52;805548441875136512;Entity Extraction;7;5:13;en;TIME;;;1;4;Mon, 05 Dec 2016 05:19:06 GMT;101;Error in reading value (type 4): rs.getBigInt(...) is null
+146;805547566955974660;Entity Extraction;7;Hillary2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;115;Error in reading value (type 4): rs.getBigInt(...) is null
+605;805540681963827200;Entity Extraction;7;love;en;StrongPositiveSentiment;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;67;6
+434;805544401833488385;Entity Extraction;7;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;41;Error in reading value (type 4): rs.getBigInt(...) is null
+347;805545257643442176;Entity Extraction;7;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;74;Error in reading value (type 4): rs.getBigInt(...) is null
+78;805549998385627136;Entity Extraction;7;https://t.co/LR4tWynaJs;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;72;Error in reading value (type 4): rs.getBigInt(...) is null
+220;805549845633179650;Entity Extraction;7;Recount;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;121;Error in reading value (type 4): rs.getBigInt(...) is null
+427;805545039854059521;Entity Extraction;7;https://t.co/ddY5ZuKfSY;en;URI/URL;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;101;Error in reading value (type 4): rs.getBigInt(...) is null
+420;805545040911200257;Entity Extraction;7;IACaucus;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;93;Error in reading value (type 4): rs.getBigInt(...) is null
+363;805546908496240640;Entity Extraction;7;deadly;en;NeutralSentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;61;8
+685;805541314427166720;Entity Extraction;7;:);en;WeakPositiveEmoticon;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;117;1
+597;805543334789992448;Entity Extraction;7;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;41;Error in reading value (type 4): rs.getBigInt(...) is null
+228;805549461434994688;Entity Extraction;7;TheSocReview;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;104;Error in reading value (type 4): rs.getBigInt(...) is null
+91;805549476177973249;Entity Extraction;7;https://t.co/LR4tWynaJs;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;72;Error in reading value (type 4): rs.getBigInt(...) is null
+409;805545048452513792;Entity Extraction;7;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;55;Error in reading value (type 4): rs.getBigInt(...) is null
+585;805540099803021316;Entity Extraction;7;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;125;Error in reading value (type 4): rs.getBigInt(...) is null
+565;805540939716501504;Entity Extraction;6;https://t.co/dX8cm3QY0X;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;91;Error in reading value (type 4): rs.getBigInt(...) is null
+556;805543401944993792;Entity Extraction;6;https://t.co/5byNPq2lGP;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;105;Error in reading value (type 4): rs.getBigInt(...) is null
+137;805547694949302272;Entity Extraction;6;Justice;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;83;Error in reading value (type 4): rs.getBigInt(...) is null
+547;805542193574219777;Entity Extraction;6;BillHemmer;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;109;Error in reading value (type 4): rs.getBigInt(...) is null
+266;805546691751358464;Entity Extraction;6;#Stein;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;72;Error in reading value (type 4): rs.getBigInt(...) is null
+189;805547617744605184;Entity Extraction;6;trump;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;75;Error in reading value (type 4): rs.getBigInt(...) is null
+84;805549548106121216;Entity Extraction;6;https://t.co/1VI8mmMP51;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;98;Error in reading value (type 4): rs.getBigInt(...) is null
+531;805541568388169729;Entity Extraction;6;https://t.co/PVjSuZ6j7S;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;113;Error in reading value (type 4): rs.getBigInt(...) is null
+277;805546328738725889;Entity Extraction;6;BernieSanders;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;78;Error in reading value (type 4): rs.getBigInt(...) is null
+90;805549476177973249;Entity Extraction;6;Charolette;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;61;Error in reading value (type 4): rs.getBigInt(...) is null
+693;805541012244303872;Entity Extraction;6;@dailysentinel;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;121;Error in reading value (type 4): rs.getBigInt(...) is null
+284;805546326339551232;Entity Extraction;6;BernieSanders;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;78;Error in reading value (type 4): rs.getBigInt(...) is null
+12;805547517291151361;Entity Extraction;6;HillaryClinton;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;99;Error in reading value (type 4): rs.getBigInt(...) is null
+630;805541178670280704;Entity Extraction;6;https://t.co/uwGwXrM8HE;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;77;Error in reading value (type 4): rs.getBigInt(...) is null
+502;805541119052288000;Entity Extraction;6;Crisis of Multiculturalism;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;71;Error in reading value (type 4): rs.getBigInt(...) is null
+198;805547354526982144;Entity Extraction;6;https://t.co/v2bgjeJyn9;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;104;Error in reading value (type 4): rs.getBigInt(...) is null
+145;805547566955974660;Entity Extraction;6;HillaryClinton;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;99;Error in reading value (type 4): rs.getBigInt(...) is null
+494;805543618085720064;Entity Extraction;6;HillaryClinton;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;77;Error in reading value (type 4): rs.getBigInt(...) is null
+623;805541944403165184;Entity Extraction;6;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;93;Error in reading value (type 4): rs.getBigInt(...) is null
+204;805547236868390912;Entity Extraction;6;the hardest-hit manufacturing communities;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;29;4
+97;805548756804530176;Entity Extraction;6;https://t.co/QWVMp6veOI;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;92;Error in reading value (type 4): rs.getBigInt(...) is null
+300;805546002920960001;Entity Extraction;6;Hillary Supporters;en;PERSON;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;71;Error in reading value (type 4): rs.getBigInt(...) is null
+103;805547991436238848;Entity Extraction;6;https://t.co/6X9BbFCVVu;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;94;Error in reading value (type 4): rs.getBigInt(...) is null
+484;805543213331312640;Entity Extraction;6;Reports;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;67;5
+109;805547865246461953;Entity Extraction;6;worth spending w/@mcrispinmiller re:the state;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;46;Error in reading value (type 4): rs.getBigInt(...) is null
+307;805545663450808322;Entity Extraction;6;Recount;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;60;Error in reading value (type 4): rs.getBigInt(...) is null
+684;805541314427166720;Entity Extraction;6;#Trump;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;92;Error in reading value (type 4): rs.getBigInt(...) is null
+39;805550499382575104;Entity Extraction;6;BernieOrBust;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;94;Error in reading value (type 4): rs.getBigInt(...) is null
+213;805551062031548416;Entity Extraction;6;https://t.co/BZLpUfxRvn;en;URI/URL;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;117;Error in reading value (type 4): rs.getBigInt(...) is null
+473;805543752190361601;Entity Extraction;6;islamaphobia;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;81;4
+604;805540681963827200;Entity Extraction;6;love hearing him;en;Sentiment;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;67;Error in reading value (type 4): rs.getBigInt(...) is null
+64;805550732762083328;Entity Extraction;6;Farce;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;48;3
+465;805543850316070912;Entity Extraction;6;Avoid;en;WeakNegativeSentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;75;4
+319;805545660300795904;Entity Extraction;6;Charolette;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;61;Error in reading value (type 4): rs.getBigInt(...) is null
+219;805549845633179650;Entity Extraction;6;GreenParty;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;109;Error in reading value (type 4): rs.getBigInt(...) is null
+117;805550304586596358;Entity Extraction;6;uber;en;PERSON;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;119;Error in reading value (type 4): rs.getBigInt(...) is null
+449;805544291993092096;Entity Extraction;6;Has 'Mandate;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;35;2
+326;805545604445327362;Entity Extraction;6;JillStein;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;62;Error in reading value (type 4): rs.getBigInt(...) is null
+672;805541363345461248;Entity Extraction;6;love hearing him;en;Sentiment;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;67;Error in reading value (type 4): rs.getBigInt(...) is null
+666;805541773414203392;Entity Extraction;6;https://t.co/jzkHaAOlqY;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;89;Error in reading value (type 4): rs.getBigInt(...) is null
+596;805543334789992448;Entity Extraction;6;PENNSYLVANIA;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;26;4
+6;805547576661516288;Entity Extraction;6;Election;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;101;Error in reading value (type 4): rs.getBigInt(...) is null
+164;805549985353891845;Entity Extraction;6;need to know;en;ContactRequest;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;61;5
+441;805544067597828096;Entity Extraction;6;https://t.co/1MIxJz9XMF;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;83;Error in reading value (type 4): rs.getBigInt(...) is null
+336;805545388937740288;Entity Extraction;6;JillStein;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;62;Error in reading value (type 4): rs.getBigInt(...) is null
+227;805549461434994688;Entity Extraction;6;Post-Truth Society MT;en;ORGANIZATION/OTHER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+124;805549812959629312;Entity Extraction;6;https://t.co/656HFkMH3n;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;82;Error in reading value (type 4): rs.getBigInt(...) is null
+584;805540099803021316;Entity Extraction;6;@etribune;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;114;Error in reading value (type 4): rs.getBigInt(...) is null
+235;805549420418859008;Entity Extraction;6;right on target;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;73;Error in reading value (type 4): rs.getBigInt(...) is null
+19;805547470109503488;Entity Extraction;6;Election;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;101;Error in reading value (type 4): rs.getBigInt(...) is null
+433;805544401833488385;Entity Extraction;6;PENNSYLVANIA;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;26;4
+346;805545257643442176;Entity Extraction;6;JillStein;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;62;Error in reading value (type 4): rs.getBigInt(...) is null
+51;805548441875136512;Entity Extraction;6;praise.-James;en;StrongPositiveSentiment;;;1;4;Mon, 05 Dec 2016 05:19:06 GMT;87;5
+659;805542390861680640;Entity Extraction;6;#Patriotic;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;63;Error in reading value (type 4): rs.getBigInt(...) is null
+174;805549533212114946;Entity Extraction;6;https://t.co/yHrGAxjPxU;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;98;Error in reading value (type 4): rs.getBigInt(...) is null
+77;805549998385627136;Entity Extraction;6;Charolette;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;61;Error in reading value (type 4): rs.getBigInt(...) is null
+426;805545039854059521;Entity Extraction;6;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;86;Error in reading value (type 4): rs.getBigInt(...) is null
+356;805549680314687488;Entity Extraction;6;Ele;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;3;4;Mon, 05 Dec 2016 05:19:06 GMT;136;Error in reading value (type 4): rs.getBigInt(...) is null
+647;805540933198639104;Entity Extraction;6;https://t.co/NYNEduxIxG;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;92;Error in reading value (type 4): rs.getBigInt(...) is null
+419;805545040911200257;Entity Extraction;6;BernieSanders;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;78;Error in reading value (type 4): rs.getBigInt(...) is null
+362;805546908496240640;Entity Extraction;6;Trump;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;24;Error in reading value (type 4): rs.getBigInt(...) is null
+573;805540636640165888;Entity Extraction;6;Farce;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;48;3
+246;805548912534847488;Entity Extraction;6;counties;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;77;5
+180;805548731135381504;Entity Extraction;6;conflicts&;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;62;5
+30;805547502736916480;Entity Extraction;6;HillaryClinton;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;99;Error in reading value (type 4): rs.getBigInt(...) is null
+131;805549774678196225;Entity Extraction;6;https://t.co/npwPJn4n1H;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+704;805540766433112064;Entity Extraction;6;love hearing him;en;Sentiment;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;67;Error in reading value (type 4): rs.getBigInt(...) is null
+408;805545048452513792;Entity Extraction;6;Farce;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;48;3
+387;805546375660322816;Entity Extraction;6;Scary;en;StrongNegativeSentiment;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;64;5
+379;805546599908679680;Entity Extraction;6;#Stein;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;72;Error in reading value (type 4): rs.getBigInt(...) is null
+641;805540956229562368;Entity Extraction;6;https://t.co/riFCpcEUNW;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+501;805541119052288000;Entity Extraction;5;Crisis;en;MajorProblem;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;71;6
+218;805549845633179650;Entity Extraction;5;JillStein;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;98;Error in reading value (type 4): rs.getBigInt(...) is null
+989;805540003904307200;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+755;805540012116742144;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+750;805540012427120640;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+745;805540013240786944;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+108;805547865246461953;Entity Extraction;5;worth spending w/@mcrispinmiller re:the state;en;StrongPositiveSentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;46;6
+595;805543334789992448;Entity Extraction;5;PENNSYLVANIA;en;REGION/MAJOR;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;26;Error in reading value (type 4): rs.getBigInt(...) is null
+226;805549461434994688;Entity Extraction;5;Doing Sociology;en;PROP_MISC;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;60;Error in reading value (type 4): rs.getBigInt(...) is null
+984;805540004638244864;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+929;805540006882263040;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+924;805540007414927360;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+590;805540014369087488;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+740;805540013416951812;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+735;805540013656064001;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+234;805549420418859008;Entity Extraction;5;2011;en;YEAR;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;52;Error in reading value (type 4): rs.getBigInt(...) is null
+730;805540013840613376;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+116;805550304586596358;Entity Extraction;5;girl 1;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;54;1
+919;805540007523983360;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+914;805540006395641856;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+583;805540099803021316;Entity Extraction;5;president;en;TITLE;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;71;Error in reading value (type 4): rs.getBigInt(...) is null
+725;805540013865713664;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+720;805540014046089216;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+715;805540027325259777;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+123;805549812959629312;Entity Extraction;5;HappyGrumpy Score History;en;PROP_MISC;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;56;Error in reading value (type 4): rs.getBigInt(...) is null
+245;805548912534847488;Entity Extraction;5;counties we most need;en;Request;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;77;Error in reading value (type 4): rs.getBigInt(...) is null
+38;805550499382575104;Entity Extraction;5;https://t.co/nykA7hjoBY;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;69;Error in reading value (type 4): rs.getBigInt(...) is null
+979;805540005170905088;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+11;805547517291151361;Entity Extraction;5;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;85;Error in reading value (type 4): rs.getBigInt(...) is null
+994;805540003170291712;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+572;805540636640165888;Entity Extraction;5;Frivolous;en;WeakNegativeSentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;38;3
+909;805540007389720576;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+130;805549774678196225;Entity Extraction;5;ElectionFraud;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;67;Error in reading value (type 4): rs.getBigInt(...) is null
+904;805540007595294720;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+255;805548508627476480;Entity Extraction;5;JillStein;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;117;Error in reading value (type 4): rs.getBigInt(...) is null
+564;805540939716501504;Entity Extraction;5;https://t.co/sZaGOFoFDZ;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;67;Error in reading value (type 4): rs.getBigInt(...) is null
+899;805540006764769280;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+555;805543401944993792;Entity Extraction;5;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;91;Error in reading value (type 4): rs.getBigInt(...) is null
+260;805546884748210176;Entity Extraction;5;ht;en;WEAPON/CHEMICAL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;137;Error in reading value (type 4): rs.getBigInt(...) is null
+703;805540766433112064;Entity Extraction;5;today;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;38;3
+698;805541003247677440;Entity Extraction;5;#Election2;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;129;Error in reading value (type 4): rs.getBigInt(...) is null
+546;805542193574219777;Entity Extraction;5;realDonaldTrump;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;92;Error in reading value (type 4): rs.getBigInt(...) is null
+265;805546691751358464;Entity Extraction;5;recount;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;48;Error in reading value (type 4): rs.getBigInt(...) is null
+136;805547694949302272;Entity Extraction;5;election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;69;Error in reading value (type 4): rs.getBigInt(...) is null
+894;805540008018853889;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+889;805540008094380032;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+541;805540015589597184;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+536;805540016839499777;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+884;805540008333438976;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+530;805541568388169729;Entity Extraction;5;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;98;Error in reading value (type 4): rs.getBigInt(...) is null
+519;805540015195336705;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+276;805546328738725889;Entity Extraction;5;HillaryClinton;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;62;Error in reading value (type 4): rs.getBigInt(...) is null
+50;805548441875136512;Entity Extraction;5;praise.-James;en;Sentiment;;;1;4;Mon, 05 Dec 2016 05:19:06 GMT;87;Error in reading value (type 4): rs.getBigInt(...) is null
+692;805541012244303872;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+514;805540015941877760;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+509;805540018211078145;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+5;805547576661516288;Entity Extraction;5;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;87;Error in reading value (type 4): rs.getBigInt(...) is null
+283;805546326339551232;Entity Extraction;5;HillaryClinton;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;62;Error in reading value (type 4): rs.getBigInt(...) is null
+144;805547566955974660;Entity Extraction;5;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;85;Error in reading value (type 4): rs.getBigInt(...) is null
+974;805540006370521088;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+969;805540000720748544;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+964;805540000745996288;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+879;805540008601890816;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+874;805540008979402752;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+683;805541314427166720;Entity Extraction;5;Mexicans;en;PEOPLE;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;43;Error in reading value (type 4): rs.getBigInt(...) is null
+493;805543618085720064;Entity Extraction;5;https://t.co/0UrC9uc6Ju;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;52;Error in reading value (type 4): rs.getBigInt(...) is null
+294;805546266788818944;Entity Extraction;5;https://t.co/5Z8oRUMKsr;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;83;Error in reading value (type 4): rs.getBigInt(...) is null
+869;805540009000333312;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+864;805540009201668097;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+859;805540009398779904;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+299;805546002920960001;Entity Extraction;5;Trump;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;59;Error in reading value (type 4): rs.getBigInt(...) is null
+854;805540009432334336;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+671;805541363345461248;Entity Extraction;5;today;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;38;3
+63;805550732762083328;Entity Extraction;5;Frivolous;en;WeakNegativeSentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;38;3
+483;805543213331312640;Entity Extraction;5;Mistake - Despite Reports;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;49;Error in reading value (type 4): rs.getBigInt(...) is null
+665;805541773414203392;Entity Extraction;5;King of Prussia;en;TITLE;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;69;Error in reading value (type 4): rs.getBigInt(...) is null
+306;805545663450808322;Entity Extraction;5;ImStillWithHer;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;44;Error in reading value (type 4): rs.getBigInt(...) is null
+163;805549985353891845;Entity Extraction;5;We need to know;en;Request;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;58;Error in reading value (type 4): rs.getBigInt(...) is null
+18;805547470109503488;Entity Extraction;5;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;87;Error in reading value (type 4): rs.getBigInt(...) is null
+999;805540002767589376;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+959;805540001832255489;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+954;805540003229011968;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+472;805543752190361601;Entity Extraction;5;violent;en;MajorProblem;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;73;4
+849;805540007620395008;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+844;805540009541451776;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+658;805542390861680640;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;38;Error in reading value (type 4): rs.getBigInt(...) is null
+464;805543850316070912;Entity Extraction;5;Budget To;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;65;4
+318;805545660300795904;Entity Extraction;5;charlotte;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;50;Error in reading value (type 4): rs.getBigInt(...) is null
+653;805540014675234817;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+173;805549533212114946;Entity Extraction;5;hillaryclinton;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;83;Error in reading value (type 4): rs.getBigInt(...) is null
+455;805543896138862592;Entity Extraction;5;ht;en;WEAPON/CHEMICAL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;137;Error in reading value (type 4): rs.getBigInt(...) is null
+839;805540009633644544;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+834;805540009998630912;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+325;805545604445327362;Entity Extraction;5;Hillary;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;53;Error in reading value (type 4): rs.getBigInt(...) is null
+829;805540010111795200;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+646;805540933198639104;Entity Extraction;5;https://t.co/YeDp9gQwlv;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;68;Error in reading value (type 4): rs.getBigInt(...) is null
+179;805548731135381504;Entity Extraction;5;conflicts& participated in the disregard;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;62;Error in reading value (type 4): rs.getBigInt(...) is null
+824;805540010296418304;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+448;805544291993092096;Entity Extraction;5;Trump;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;29;Error in reading value (type 4): rs.getBigInt(...) is null
+76;805549998385627136;Entity Extraction;5;charlotte;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;50;Error in reading value (type 4): rs.getBigInt(...) is null
+949;805540004168507392;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+24;805548408291389440;Entity Extraction;5;https://t.co/qo2fLuIL3Q;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;63;Error in reading value (type 4): rs.getBigInt(...) is null
+335;805545388937740288;Entity Extraction;5;Hillary;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;53;Error in reading value (type 4): rs.getBigInt(...) is null
+819;805540010631970816;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+640;805540956229562368;Entity Extraction;5;https://t.co/7aIXgHEZgw;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;72;Error in reading value (type 4): rs.getBigInt(...) is null
+814;805540010871046144;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+188;805547617744605184;Entity Extraction;5;election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;61;Error in reading value (type 4): rs.getBigInt(...) is null
+440;805544067597828096;Entity Extraction;5;Donald Trump Win;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;66;Error in reading value (type 4): rs.getBigInt(...) is null
+809;805540010891952128;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+83;805549548106121216;Entity Extraction;5;hillaryclinton;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;83;Error in reading value (type 4): rs.getBigInt(...) is null
+944;805540005896601600;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+345;805545257643442176;Entity Extraction;5;Hillary;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;53;Error in reading value (type 4): rs.getBigInt(...) is null
+804;805540011462430721;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+799;805540011726622720;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+794;805540013224050688;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+629;805541178670280704;Entity Extraction;5;changemaker;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;64;4
+432;805544401833488385;Entity Extraction;5;PENNSYLVANIA;en;REGION/MAJOR;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;26;Error in reading value (type 4): rs.getBigInt(...) is null
+197;805547354526982144;Entity Extraction;5;https://t.co/1NXtkrrDmO;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;80;Error in reading value (type 4): rs.getBigInt(...) is null
+89;805549476177973249;Entity Extraction;5;charlotte;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;50;Error in reading value (type 4): rs.getBigInt(...) is null
+425;805545039854059521;Entity Extraction;5;important;en;WeakPositiveSentiment;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;72;4
+355;805549680314687488;Entity Extraction;5;#MAGA;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;3;4;Mon, 05 Dec 2016 05:19:06 GMT;129;Error in reading value (type 4): rs.getBigInt(...) is null
+939;805540006475354113;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+934;805540005728788480;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+622;805541944403165184;Entity Extraction;5;ElectoralCollege;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;75;Error in reading value (type 4): rs.getBigInt(...) is null
+418;805545040911200257;Entity Extraction;5;HillaryClinton;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;62;Error in reading value (type 4): rs.getBigInt(...) is null
+361;805546908496240640;Entity Extraction;5;Trump;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;24;Error in reading value (type 4): rs.getBigInt(...) is null
+203;805547236868390912;Entity Extraction;5;the hardest-hit manufacturing communities;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;29;1
+789;805540013320482816;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+784;805540017674125313;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+775;805540011907002369;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+96;805548756804530176;Entity Extraction;5;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;79;Error in reading value (type 4): rs.getBigInt(...) is null
+29;805547502736916480;Entity Extraction;5;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;85;Error in reading value (type 4): rs.getBigInt(...) is null
+770;805540011915386880;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+212;805551062031548416;Entity Extraction;5;current cu;en;NOUN_GROUP;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;105;Error in reading value (type 4): rs.getBigInt(...) is null
+407;805545048452513792;Entity Extraction;5;Frivolous;en;WeakNegativeSentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;38;3
+402;805545214572109824;Entity Extraction;5;ht;en;WEAPON/CHEMICAL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;137;Error in reading value (type 4): rs.getBigInt(...) is null
+373;805546689826353152;Entity Extraction;5;ht;en;WEAPON/CHEMICAL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;137;Error in reading value (type 4): rs.getBigInt(...) is null
+397;805545394625282049;Entity Extraction;5;ht;en;WEAPON/CHEMICAL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;137;Error in reading value (type 4): rs.getBigInt(...) is null
+392;805546133913096192;Entity Extraction;5;https://t.co/5Z8oRUMKsr;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;83;Error in reading value (type 4): rs.getBigInt(...) is null
+765;805540011915390976;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+378;805546599908679680;Entity Extraction;5;recount;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;48;Error in reading value (type 4): rs.getBigInt(...) is null
+760;805540011919581184;Entity Extraction;5;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;122;Error in reading value (type 4): rs.getBigInt(...) is null
+603;805540681963827200;Entity Extraction;5;today;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;38;3
+102;805547991436238848;Entity Extraction;5;https://t.co/lSZhXHklR0;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;70;Error in reading value (type 4): rs.getBigInt(...) is null
+386;805546375660322816;Entity Extraction;5;Scary;en;Sentiment;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;64;Error in reading value (type 4): rs.getBigInt(...) is null
+878;805540008601890816;Entity Extraction;4;https://t.co/XN4a8UWmeR;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+754;805540012116742144;Entity Extraction;4;https://t.co/4kgx7j9j6I;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+377;805546599908679680;Entity Extraction;4;federal court;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;33;Error in reading value (type 4): rs.getBigInt(...) is null
+391;805546133913096192;Entity Extraction;4;#election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;69;Error in reading value (type 4): rs.getBigInt(...) is null
+4;805547576661516288;Entity Extraction;4;https://t.co/qxiJ5x8ZSQ;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;62;Error in reading value (type 4): rs.getBigInt(...) is null
+396;805545394625282049;Entity Extraction;4;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;123;Error in reading value (type 4): rs.getBigInt(...) is null
+993;805540003170291712;Entity Extraction;4;https://t.co/D0W2OJuhDt;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+401;805545214572109824;Entity Extraction;4;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;123;Error in reading value (type 4): rs.getBigInt(...) is null
+372;805546689826353152;Entity Extraction;4;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;123;Error in reading value (type 4): rs.getBigInt(...) is null
+988;805540003904307200;Entity Extraction;4;https://t.co/ibHExjk1aE;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+406;805545048452513792;Entity Extraction;4;Jill-Hill Recount;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;17;3
+983;805540004638244864;Entity Extraction;4;https://t.co/wviybpi6Vg;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+10;805547517291151361;Entity Extraction;4;https://t.co/XET3N1nB57;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;60;Error in reading value (type 4): rs.getBigInt(...) is null
+978;805540005170905088;Entity Extraction;4;https://t.co/XBiETiWsJu;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+417;805545040911200257;Entity Extraction;4;ImWithHer;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;51;Error in reading value (type 4): rs.getBigInt(...) is null
+360;805546908496240640;Entity Extraction;4;Trump;en;StrongPositiveSentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;24;5
+973;805540006370521088;Entity Extraction;4;https://t.co/8FJhfDY9uz;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+424;805545039854059521;Entity Extraction;4;important;en;Sentiment;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;72;Error in reading value (type 4): rs.getBigInt(...) is null
+354;805549680314687488;Entity Extraction;4;loose;en;MinorProblem;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;80;3
+968;805540000720748544;Entity Extraction;4;https://t.co/zSNaNY5X10;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+431;805544401833488385;Entity Extraction;4;Thank you PENNSYLVANIA;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;16;Error in reading value (type 4): rs.getBigInt(...) is null
+344;805545257643442176;Entity Extraction;4;Recount;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;44;Error in reading value (type 4): rs.getBigInt(...) is null
+17;805547470109503488;Entity Extraction;4;https://t.co/nokKwBjdv0;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;62;Error in reading value (type 4): rs.getBigInt(...) is null
+963;805540000745996288;Entity Extraction;4;https://t.co/rVzdcucIVW;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+439;805544067597828096;Entity Extraction;4;Bernie Sanders;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;42;Error in reading value (type 4): rs.getBigInt(...) is null
+334;805545388937740288;Entity Extraction;4;Recount;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;44;Error in reading value (type 4): rs.getBigInt(...) is null
+958;805540001832255489;Entity Extraction;4;https://t.co/49jHSMLyEo;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+447;805544291993092096;Entity Extraction;4;Trump;en;NeutralSentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;29;2
+324;805545604445327362;Entity Extraction;4;Recount;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;44;Error in reading value (type 4): rs.getBigInt(...) is null
+953;805540003229011968;Entity Extraction;4;https://t.co/0EFTv8uvRM;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+454;805543896138862592;Entity Extraction;4;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;123;Error in reading value (type 4): rs.getBigInt(...) is null
+23;805548408291389440;Entity Extraction;4;uzbekistan;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;49;Error in reading value (type 4): rs.getBigInt(...) is null
+459;805543881588621312;Entity Extraction;4;https://t.co/2rH4HvZKod;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;90;Error in reading value (type 4): rs.getBigInt(...) is null
+948;805540004168507392;Entity Extraction;4;https://t.co/abBb0q3Kqe;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+463;805543850316070912;Entity Extraction;4;Budget To Avoid Criticism;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;65;Error in reading value (type 4): rs.getBigInt(...) is null
+317;805545660300795904;Entity Extraction;4;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;36;Error in reading value (type 4): rs.getBigInt(...) is null
+943;805540005896601600;Entity Extraction;4;https://t.co/i2Wn2HyPYO;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+471;805543752190361601;Entity Extraction;4;violent islamaphobia;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;73;Error in reading value (type 4): rs.getBigInt(...) is null
+938;805540006475354113;Entity Extraction;4;https://t.co/mT1EtXOgKb;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+305;805545663450808322;Entity Extraction;4;ImWithHer;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;33;Error in reading value (type 4): rs.getBigInt(...) is null
+478;805544200313991172;Entity Extraction;4;Election201;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;2;2;Mon, 05 Dec 2016 05:19:06 GMT;128;Error in reading value (type 4): rs.getBigInt(...) is null
+28;805547502736916480;Entity Extraction;4;https://t.co/Sqom2KgfbN;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;60;Error in reading value (type 4): rs.getBigInt(...) is null
+482;805543213331312640;Entity Extraction;4;Mistake;en;MinorProblem;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;49;5
+933;805540005728788480;Entity Extraction;4;https://t.co/TKAzRAa5ft;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+298;805546002920960001;Entity Extraction;4;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;44;Error in reading value (type 4): rs.getBigInt(...) is null
+928;805540006882263040;Entity Extraction;4;https://t.co/sPAObld9g3;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+492;805543618085720064;Entity Extraction;4;Hillary;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;36;Error in reading value (type 4): rs.getBigInt(...) is null
+293;805546266788818944;Entity Extraction;4;#election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;69;Error in reading value (type 4): rs.getBigInt(...) is null
+923;805540007414927360;Entity Extraction;4;https://t.co/08Kf50kwTn;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+289;805546287093288960;Entity Extraction;4;https://t.co/UbjXSdAps8;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;79;Error in reading value (type 4): rs.getBigInt(...) is null
+500;805541119052288000;Entity Extraction;4;@alanalentin;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;52;Error in reading value (type 4): rs.getBigInt(...) is null
+918;805540007523983360;Entity Extraction;4;https://t.co/FICLcHhtyY;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+282;805546326339551232;Entity Extraction;4;ImWithHer;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;51;Error in reading value (type 4): rs.getBigInt(...) is null
+508;805540018211078145;Entity Extraction;4;https://t.co/vjzCK2tZ5F;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+37;805550499382575104;Entity Extraction;4;@thenation;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;57;Error in reading value (type 4): rs.getBigInt(...) is null
+513;805540015941877760;Entity Extraction;4;https://t.co/5BeX9hsZPv;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+913;805540006395641856;Entity Extraction;4;https://t.co/twfO1bQvwl;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+518;805540015195336705;Entity Extraction;4;https://t.co/oQgJf1XFA7;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+275;805546328738725889;Entity Extraction;4;ImWithHer;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;51;Error in reading value (type 4): rs.getBigInt(...) is null
+908;805540007389720576;Entity Extraction;4;https://t.co/EK3v9e9msk;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+529;805541568388169729;Entity Extraction;4;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;42;Error in reading value (type 4): rs.getBigInt(...) is null
+903;805540007595294720;Entity Extraction;4;https://t.co/iUT7ESgw2D;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+535;805540016839499777;Entity Extraction;4;https://t.co/n6KqqctG4X;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+45;805549639000653824;Entity Extraction;4;https://t.co/uRyZ1x9Tlu;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;35;Error in reading value (type 4): rs.getBigInt(...) is null
+540;805540015589597184;Entity Extraction;4;https://t.co/OUn47ejsyY;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+898;805540006764769280;Entity Extraction;4;https://t.co/VSzsiWh2V1;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+545;805542193574219777;Entity Extraction;4;FoxNews;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;83;Error in reading value (type 4): rs.getBigInt(...) is null
+264;805546691751358464;Entity Extraction;4;federal court;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;33;Error in reading value (type 4): rs.getBigInt(...) is null
+893;805540008018853889;Entity Extraction;4;https://t.co/u3UZXNuue2;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+554;805543401944993792;Entity Extraction;4;https://t.co/cnLtTHuG5d;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;66;Error in reading value (type 4): rs.getBigInt(...) is null
+259;805546884748210176;Entity Extraction;4;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;123;Error in reading value (type 4): rs.getBigInt(...) is null
+888;805540008094380032;Entity Extraction;4;https://t.co/TBItaRTdco;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+563;805540939716501504;Entity Extraction;4;November;en;MONTH;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;58;Error in reading value (type 4): rs.getBigInt(...) is null
+49;805548441875136512;Entity Extraction;4;happy;en;WeakPositiveSentiment;;;1;3;Mon, 05 Dec 2016 05:19:06 GMT;57;3
+254;805548508627476480;Entity Extraction;4;election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;103;Error in reading value (type 4): rs.getBigInt(...) is null
+883;805540008333438976;Entity Extraction;4;https://t.co/kf8QUNl8uW;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+571;805540636640165888;Entity Extraction;4;Jill-Hill Recount;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;17;3
+998;805540002767589376;Entity Extraction;4;https://t.co/3eOu7G9t05;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+244;805548912534847488;Entity Extraction;4;#Wisconsin;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;66;Error in reading value (type 4): rs.getBigInt(...) is null
+873;805540008979402752;Entity Extraction;4;https://t.co/eGG9AXnzVX;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+58;805550819852582912;Entity Extraction;4;https://t.co/uRyZ1x9Tlu;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;35;Error in reading value (type 4): rs.getBigInt(...) is null
+582;805540099803021316;Entity Extraction;4;Donald Trump;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;51;Error in reading value (type 4): rs.getBigInt(...) is null
+868;805540009000333312;Entity Extraction;4;https://t.co/btULYVjAJu;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+233;805549420418859008;Entity Extraction;4;realDonaldTrump;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;30;Error in reading value (type 4): rs.getBigInt(...) is null
+589;805540014369087488;Entity Extraction;4;https://t.co/Qbudybl93E;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+863;805540009201668097;Entity Extraction;4;https://t.co/gOWUZlKmnA;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+594;805543334789992448;Entity Extraction;4;Thank you PENNSYLVANIA;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;16;Error in reading value (type 4): rs.getBigInt(...) is null
+225;805549461434994688;Entity Extraction;4;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;30;Error in reading value (type 4): rs.getBigInt(...) is null
+217;805549845633179650;Entity Extraction;4;https://t.co/Y14wpzumJc;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;73;Error in reading value (type 4): rs.getBigInt(...) is null
+858;805540009398779904;Entity Extraction;4;https://t.co/4ELCdONyen;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+602;805540681963827200;Entity Extraction;4;relevant;en;WeakPositiveSentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;29;3
+211;805551062031548416;Entity Extraction;4;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;58;Error in reading value (type 4): rs.getBigInt(...) is null
+62;805550732762083328;Entity Extraction;4;Jill-Hill Recount;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;17;3
+853;805540009432334336;Entity Extraction;4;https://t.co/3lXOpOWnEM;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+848;805540007620395008;Entity Extraction;4;https://t.co/ELxUS1kSZW;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+843;805540009541451776;Entity Extraction;4;https://t.co/EMfqlPeEiD;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+617;805542727358222336;Entity Extraction;4;ElectionFinalThoughts;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;113;Error in reading value (type 4): rs.getBigInt(...) is null
+621;805541944403165184;Entity Extraction;4;ElectionReform;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;58;Error in reading value (type 4): rs.getBigInt(...) is null
+202;805547236868390912;Entity Extraction;4;Revitalize the hardest-hit manufacturing communities;en;Request;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;18;Error in reading value (type 4): rs.getBigInt(...) is null
+838;805540009633644544;Entity Extraction;4;https://t.co/pWM2ELWaCM;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+628;805541178670280704;Entity Extraction;4;smart changemaker;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;58;Error in reading value (type 4): rs.getBigInt(...) is null
+196;805547354526982144;Entity Extraction;4;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;66;Error in reading value (type 4): rs.getBigInt(...) is null
+833;805540009998630912;Entity Extraction;4;https://t.co/IYLXseFi3n;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+187;805547617744605184;Entity Extraction;4;2010;en;YEAR;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;54;Error in reading value (type 4): rs.getBigInt(...) is null
+639;805540956229562368;Entity Extraction;4;November;en;MONTH;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;62;Error in reading value (type 4): rs.getBigInt(...) is null
+828;805540010111795200;Entity Extraction;4;https://t.co/tClxqOQO2n;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+645;805540933198639104;Entity Extraction;4;November;en;MONTH;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;58;Error in reading value (type 4): rs.getBigInt(...) is null
+178;805548731135381504;Entity Extraction;4;Trump;en;StrongPositiveSentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;33;3
+75;805549998385627136;Entity Extraction;4;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;36;Error in reading value (type 4): rs.getBigInt(...) is null
+823;805540010296418304;Entity Extraction;4;https://t.co/lk2K26zjCX;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+652;805540014675234817;Entity Extraction;4;https://t.co/tUDDserjgH;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+172;805549533212114946;Entity Extraction;4;donaldtrump;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;70;Error in reading value (type 4): rs.getBigInt(...) is null
+657;805542390861680640;Entity Extraction;4;Twit;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;26;Error in reading value (type 4): rs.getBigInt(...) is null
+818;805540010631970816;Entity Extraction;4;https://t.co/ZJOU6pEcv6;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+664;805541773414203392;Entity Extraction;4;Wawa;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;61;Error in reading value (type 4): rs.getBigInt(...) is null
+162;805549985353891845;Entity Extraction;4;Recount2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;46;Error in reading value (type 4): rs.getBigInt(...) is null
+813;805540010871046144;Entity Extraction;4;https://t.co/7jmnbtUh1r;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+670;805541363345461248;Entity Extraction;4;relevant;en;WeakPositiveSentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;29;3
+158;805550454985854976;Entity Extraction;4;https://t.co/Z6k17Hj0LY;en;URI/URL;;;2;3;Mon, 05 Dec 2016 05:19:06 GMT;115;Error in reading value (type 4): rs.getBigInt(...) is null
+82;805549548106121216;Entity Extraction;4;donaldtrump;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;70;Error in reading value (type 4): rs.getBigInt(...) is null
+808;805540010891952128;Entity Extraction;4;https://t.co/haktDJFOIG;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+803;805540011462430721;Entity Extraction;4;https://t.co/nN9N98Qvq8;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+682;805541314427166720;Entity Extraction;4;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;29;Error in reading value (type 4): rs.getBigInt(...) is null
+798;805540011726622720;Entity Extraction;4;https://t.co/kpUzVZgyNK;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+385;805546375660322816;Entity Extraction;4;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;49;Error in reading value (type 4): rs.getBigInt(...) is null
+143;805547566955974660;Entity Extraction;4;https://t.co/xpAfXNXm9K;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;60;Error in reading value (type 4): rs.getBigInt(...) is null
+88;805549476177973249;Entity Extraction;4;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;36;Error in reading value (type 4): rs.getBigInt(...) is null
+691;805541012244303872;Entity Extraction;4;sleeveless shirts;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;76;Error in reading value (type 4): rs.getBigInt(...) is null
+793;805540013224050688;Entity Extraction;4;https://t.co/zp5kjfP86Z;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+697;805541003247677440;Entity Extraction;4;President of the United States;en;TITLE;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;65;Error in reading value (type 4): rs.getBigInt(...) is null
+135;805547694949302272;Entity Extraction;4;FBI;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;64;Error in reading value (type 4): rs.getBigInt(...) is null
+788;805540013320482816;Entity Extraction;4;https://t.co/C0D8evj7Ve;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+702;805540766433112064;Entity Extraction;4;relevant;en;WeakPositiveSentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;29;3
+129;805549774678196225;Entity Extraction;4;ElectionResults;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;50;Error in reading value (type 4): rs.getBigInt(...) is null
+783;805540017674125313;Entity Extraction;4;https://t.co/Npy0IMilm3;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+779;805540166345572352;Entity Extraction;4;#politics;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;3;Mon, 05 Dec 2016 05:19:07 GMT;130;Error in reading value (type 4): rs.getBigInt(...) is null
+714;805540027325259777;Entity Extraction;4;https://t.co/EUmv4r0mKe;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+122;805549812959629312;Entity Extraction;4;#Trump;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;49;Error in reading value (type 4): rs.getBigInt(...) is null
+95;805548756804530176;Entity Extraction;4;TrumpTrain;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;67;Error in reading value (type 4): rs.getBigInt(...) is null
+719;805540014046089216;Entity Extraction;4;https://t.co/i8h4k4fsTz;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+774;805540011907002369;Entity Extraction;4;https://t.co/B5gdpGT0NZ;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+724;805540013865713664;Entity Extraction;4;https://t.co/BlyfCPpDEs;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+769;805540011915386880;Entity Extraction;4;https://t.co/UKJtD0zHxg;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+729;805540013840613376;Entity Extraction;4;https://t.co/5hA1NOXd5J;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+115;805550304586596358;Entity Extraction;4;sexist;en;MinorProblem;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;43;1
+734;805540013656064001;Entity Extraction;4;https://t.co/Xrn8WGqyrw;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+739;805540013416951812;Entity Extraction;4;https://t.co/bhXCc1ehHh;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+764;805540011915390976;Entity Extraction;4;https://t.co/MQqRUExp6m;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+744;805540013240786944;Entity Extraction;4;https://t.co/Pk9XKLZAc2;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+107;805547865246461953;Entity Extraction;4;: *This*;en;StrongPositiveEmoticon;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;13;2
+101;805547991436238848;Entity Extraction;4;Trolls;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;63;Error in reading value (type 4): rs.getBigInt(...) is null
+749;805540012427120640;Entity Extraction;4;https://t.co/f7eP31Jxzm;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+759;805540011919581184;Entity Extraction;4;https://t.co/cSJP5tWu5V;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;96;Error in reading value (type 4): rs.getBigInt(...) is null
+149;805547280891781120;Entity Extraction;3;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;54;Error in reading value (type 4): rs.getBigInt(...) is null
+882;805540008333438976;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+570;805540636640165888;Entity Extraction;3;Jill-Hill Recount: A Frivolous Farce;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;17;Error in reading value (type 4): rs.getBigInt(...) is null
+371;805546689826353152;Entity Extraction;3;BIGOT FITS Liberal Progressive Democrats;en;ORGANIZATION/OTHER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;20;Error in reading value (type 4): rs.getBigInt(...) is null
+430;805544401833488385;Entity Extraction;3;Thank you;en;StrongPositiveSentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;16;4
+937;805540006475354113;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+243;805548912534847488;Entity Extraction;3;Bob Fitrakis;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;20;Error in reading value (type 4): rs.getBigInt(...) is null
+877;805540008601890816;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+57;805550819852582912;Entity Extraction;3;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;21;Error in reading value (type 4): rs.getBigInt(...) is null
+477;805544200313991172;Entity Extraction;3;#NotMyPresident;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;2;2;Mon, 05 Dec 2016 05:19:06 GMT;111;Error in reading value (type 4): rs.getBigInt(...) is null
+872;805540008979402752;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+987;805540003904307200;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+581;805540099803021316;Entity Extraction;3;America;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;35;Error in reading value (type 4): rs.getBigInt(...) is null
+967;805540000720748544;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+481;805543213331312640;Entity Extraction;3;Election Recounts Are;en;PROP_MISC;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+9;805547517291151361;Entity Extraction;3;https://t.co/BTbAVGwMXJ;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;36;Error in reading value (type 4): rs.getBigInt(...) is null
+232;805549420418859008;Entity Extraction;3;BarbMuenchen;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;16;Error in reading value (type 4): rs.getBigInt(...) is null
+867;805540009000333312;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+588;805540014369087488;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+304;805545663450808322;Entity Extraction;3;NotMyPresident;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;17;Error in reading value (type 4): rs.getBigInt(...) is null
+343;805545257643442176;Entity Extraction;3;ImStillWithHer;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;28;Error in reading value (type 4): rs.getBigInt(...) is null
+862;805540009201668097;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+593;805543334789992448;Entity Extraction;3;Thank you;en;StrongPositiveSentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;16;4
+384;805546375660322816;Entity Extraction;3;@TheNewsroomHB0;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;21;Error in reading value (type 4): rs.getBigInt(...) is null
+297;805546002920960001;Entity Extraction;3;ImStillWithHer;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;28;Error in reading value (type 4): rs.getBigInt(...) is null
+224;805549461434994688;Entity Extraction;3;Rolland Munro;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;13;Error in reading value (type 4): rs.getBigInt(...) is null
+61;805550732762083328;Entity Extraction;3;Jill-Hill Recount: A Frivolous Farce;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;17;Error in reading value (type 4): rs.getBigInt(...) is null
+932;805540005728788480;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+982;805540004638244864;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+601;805540681963827200;Entity Extraction;3;relevant today;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;29;Error in reading value (type 4): rs.getBigInt(...) is null
+927;805540006882263040;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+216;805549845633179650;Entity Extraction;3;Presidential Vote Recount;en;PROP_MISC;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;47;Error in reading value (type 4): rs.getBigInt(...) is null
+857;805540009398779904;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+3;805547576661516288;Entity Extraction;3;https://t.co/rKqwDLkNNU;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;38;Error in reading value (type 4): rs.getBigInt(...) is null
+210;805551062031548416;Entity Extraction;3;incidents;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;27;1
+438;805544067597828096;Entity Extraction;3;#Media;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;26;Error in reading value (type 4): rs.getBigInt(...) is null
+992;805540003170291712;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+852;805540009432334336;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+292;805546266788818944;Entity Extraction;3;Alec;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;30;Error in reading value (type 4): rs.getBigInt(...) is null
+847;805540007620395008;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+613;805543512116695040;Entity Extraction;3;https://t.co/1zu8R0QkvY;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;117;Error in reading value (type 4): rs.getBigInt(...) is null
+962;805540000745996288;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+616;805542727358222336;Entity Extraction;3;#AmericansAreMorons;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;92;Error in reading value (type 4): rs.getBigInt(...) is null
+400;805545214572109824;Entity Extraction;3;BIGOT FITS Liberal Progressive Democrats;en;ORGANIZATION/OTHER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;20;Error in reading value (type 4): rs.getBigInt(...) is null
+842;805540009541451776;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+620;805541944403165184;Entity Extraction;3;2016;en;YEAR;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;49;Error in reading value (type 4): rs.getBigInt(...) is null
+922;805540007414927360;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+499;805541119052288000;Entity Extraction;3;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;27;Error in reading value (type 4): rs.getBigInt(...) is null
+201;805547236868390912;Entity Extraction;3;Revitalize;en;GeneralRequest;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;18;4
+333;805545388937740288;Entity Extraction;3;ImStillWithHer;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;28;Error in reading value (type 4): rs.getBigInt(...) is null
+837;805540009633644544;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+627;805541178670280704;Entity Extraction;3;smart;en;WeakPositiveSentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;58;4
+36;805550499382575104;Entity Extraction;3;#BernieSanders;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;39;Error in reading value (type 4): rs.getBigInt(...) is null
+288;805546287093288960;Entity Extraction;3;election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;66;Error in reading value (type 4): rs.getBigInt(...) is null
+195;805547354526982144;Entity Extraction;3;#ElectoralCollege;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;44;Error in reading value (type 4): rs.getBigInt(...) is null
+977;805540005170905088;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+957;805540001832255489;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+832;805540009998630912;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+635;805541122680455172;Entity Extraction;3;https://t.co/EThyeT94jW;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;99;Error in reading value (type 4): rs.getBigInt(...) is null
+74;805549998385627136;Entity Extraction;3;CharlotteProtest;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;18;Error in reading value (type 4): rs.getBigInt(...) is null
+638;805540956229562368;Entity Extraction;3;election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;34;Error in reading value (type 4): rs.getBigInt(...) is null
+917;805540007523983360;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+186;805547617744605184;Entity Extraction;3;presidential election;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;29;Error in reading value (type 4): rs.getBigInt(...) is null
+507;805540018211078145;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+827;805540010111795200;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+644;805540933198639104;Entity Extraction;3;election;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;34;Error in reading value (type 4): rs.getBigInt(...) is null
+446;805544291993092096;Entity Extraction;3;Believe;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;21;2
+281;805546326339551232;Entity Extraction;3;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;37;Error in reading value (type 4): rs.getBigInt(...) is null
+177;805548731135381504;Entity Extraction;3;Trump;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;33;Error in reading value (type 4): rs.getBigInt(...) is null
+416;805545040911200257;Entity Extraction;3;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;37;Error in reading value (type 4): rs.getBigInt(...) is null
+512;805540015941877760;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+651;805540014675234817;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+22;805548408291389440;Entity Extraction;3;#tashkent;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;38;Error in reading value (type 4): rs.getBigInt(...) is null
+376;805546599908679680;Entity Extraction;3;#Detroit;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;24;Error in reading value (type 4): rs.getBigInt(...) is null
+822;805540010296418304;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+656;805542390861680640;Entity Extraction;3;#Fringe;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;17;Error in reading value (type 4): rs.getBigInt(...) is null
+912;805540006395641856;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+171;805549533212114946;Entity Extraction;3;electionnews;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;56;Error in reading value (type 4): rs.getBigInt(...) is null
+517;805540015195336705;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+817;805540010631970816;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+81;805549548106121216;Entity Extraction;3;electionnews;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;56;Error in reading value (type 4): rs.getBigInt(...) is null
+663;805541773414203392;Entity Extraction;3;Bobby Knight;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;36;Error in reading value (type 4): rs.getBigInt(...) is null
+323;805545604445327362;Entity Extraction;3;ImStillWithHer;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;28;Error in reading value (type 4): rs.getBigInt(...) is null
+997;805540002767589376;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+161;805549985353891845;Entity Extraction;3;#Pennsylvania;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;31;Error in reading value (type 4): rs.getBigInt(...) is null
+453;805543896138862592;Entity Extraction;3;BIGOT FITS Liberal Progressive Democrats;en;ORGANIZATION/OTHER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;20;Error in reading value (type 4): rs.getBigInt(...) is null
+669;805541363345461248;Entity Extraction;3;relevant today;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;29;Error in reading value (type 4): rs.getBigInt(...) is null
+522;805540888810291201;Entity Extraction;3;https://t.co/5Z8oRUMKsr;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;70;Error in reading value (type 4): rs.getBigInt(...) is null
+812;805540010871046144;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+907;805540007389720576;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+157;805550454985854976;Entity Extraction;3;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;2;3;Mon, 05 Dec 2016 05:19:06 GMT;101;Error in reading value (type 4): rs.getBigInt(...) is null
+525;805543511688933376;Entity Extraction;3;https://t.co/HonyNgnFJM;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;117;Error in reading value (type 4): rs.getBigInt(...) is null
+44;805549639000653824;Entity Extraction;3;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;21;Error in reading value (type 4): rs.getBigInt(...) is null
+807;805540010891952128;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+528;805541568388169729;Entity Extraction;3;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;32;Error in reading value (type 4): rs.getBigInt(...) is null
+802;805540011462430721;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+87;805549476177973249;Entity Extraction;3;CharlotteProtest;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;18;Error in reading value (type 4): rs.getBigInt(...) is null
+681;805541314427166720;Entity Extraction;3;@RichardAngwin;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;3;Error in reading value (type 4): rs.getBigInt(...) is null
+359;805546908496240640;Entity Extraction;3;TrumpLeaks;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;13;Error in reading value (type 4): rs.getBigInt(...) is null
+152;805551072890810368;Entity Extraction;3;Election2016 @TheDemocrats #liberty;en;ADDRESS1;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;86;Error in reading value (type 4): rs.getBigInt(...) is null
+274;805546328738725889;Entity Extraction;3;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;37;Error in reading value (type 4): rs.getBigInt(...) is null
+952;805540003229011968;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+797;805540011726622720;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+902;805540007595294720;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+534;805540016839499777;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+690;805541012244303872;Entity Extraction;3;#2ndAmendment;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;41;Error in reading value (type 4): rs.getBigInt(...) is null
+395;805545394625282049;Entity Extraction;3;BIGOT FITS Liberal Progressive Democrats;en;ORGANIZATION/OTHER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;20;Error in reading value (type 4): rs.getBigInt(...) is null
+142;805547566955974660;Entity Extraction;3;https://t.co/n2U1cpvjWU;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;36;Error in reading value (type 4): rs.getBigInt(...) is null
+271;805546479821684737;Entity Extraction;3;https://t.co/e9RxZNAhxi;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;57;Error in reading value (type 4): rs.getBigInt(...) is null
+792;805540013224050688;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+696;805541003247677440;Entity Extraction;3;surreal moment;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;24;Error in reading value (type 4): rs.getBigInt(...) is null
+458;805543881588621312;Entity Extraction;3;election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;77;Error in reading value (type 4): rs.getBigInt(...) is null
+539;805540015589597184;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+972;805540006370521088;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+701;805540766433112064;Entity Extraction;3;relevant today;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;29;Error in reading value (type 4): rs.getBigInt(...) is null
+423;805545039854059521;Entity Extraction;3;flexible;en;WeakPositiveSentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;43;2
+134;805547694949302272;Entity Extraction;3;#Trump;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;56;Error in reading value (type 4): rs.getBigInt(...) is null
+787;805540013320482816;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+897;805540006764769280;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+128;805549774678196225;Entity Extraction;3;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;36;Error in reading value (type 4): rs.getBigInt(...) is null
+94;805548756804530176;Entity Extraction;3;https://t.co/JNtFecs4kM;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;42;Error in reading value (type 4): rs.getBigInt(...) is null
+544;805542193574219777;Entity Extraction;3;SpeakerRyan;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;70;Error in reading value (type 4): rs.getBigInt(...) is null
+782;805540017674125313;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+462;805543850316070912;Entity Extraction;3;Trump May Skip;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;37;Error in reading value (type 4): rs.getBigInt(...) is null
+778;805540166345572352;Entity Extraction;3;@HarryPotterFilm;en;SOCIAL_MEDIA/ID_TWITTER;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;78;Error in reading value (type 4): rs.getBigInt(...) is null
+713;805540027325259777;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+405;805545048452513792;Entity Extraction;3;Jill-Hill Recount: A Frivolous Farce;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;17;Error in reading value (type 4): rs.getBigInt(...) is null
+263;805546691751358464;Entity Extraction;3;#Detroit;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;24;Error in reading value (type 4): rs.getBigInt(...) is null
+390;805546133913096192;Entity Extraction;3;Alec;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;30;Error in reading value (type 4): rs.getBigInt(...) is null
+718;805540014046089216;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+892;805540008018853889;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+121;805549812959629312;Entity Extraction;3;Clinton;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;38;Error in reading value (type 4): rs.getBigInt(...) is null
+48;805548441875136512;Entity Extraction;3;happy;en;Sentiment;;;1;3;Mon, 05 Dec 2016 05:19:06 GMT;57;Error in reading value (type 4): rs.getBigInt(...) is null
+723;805540013865713664;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+553;805543401944993792;Entity Extraction;3;Guatemala;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;30;Error in reading value (type 4): rs.getBigInt(...) is null
+773;805540011907002369;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+316;805545660300795904;Entity Extraction;3;CharlotteProtest;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;18;Error in reading value (type 4): rs.getBigInt(...) is null
+728;805540013840613376;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+947;805540004168507392;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+258;805546884748210176;Entity Extraction;3;BIGOT FITS Liberal Progressive Democrats;en;ORGANIZATION/OTHER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;20;Error in reading value (type 4): rs.getBigInt(...) is null
+768;805540011915386880;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+733;805540013656064001;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+353;805549680314687488;Entity Extraction;3;loose;en;Sentiment;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;80;Error in reading value (type 4): rs.getBigInt(...) is null
+114;805550304586596358;Entity Extraction;3;racist;en;MinorProblem;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;33;1
+100;805547991436238848;Entity Extraction;3;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;48;Error in reading value (type 4): rs.getBigInt(...) is null
+738;805540013416951812;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+559;805543513156894720;Entity Extraction;3;https://t.co/o99PMW4Iwv;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;117;Error in reading value (type 4): rs.getBigInt(...) is null
+887;805540008094380032;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+763;805540011915390976;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+743;805540013240786944;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+562;805540939716501504;Entity Extraction;3;election;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;34;Error in reading value (type 4): rs.getBigInt(...) is null
+942;805540005896601600;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+470;805543752190361601;Entity Extraction;3;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;23;Error in reading value (type 4): rs.getBigInt(...) is null
+748;805540012427120640;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+16;805547470109503488;Entity Extraction;3;https://t.co/CSdlKuyd9U;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;38;Error in reading value (type 4): rs.getBigInt(...) is null
+106;805547865246461953;Entity Extraction;3;@ustvmedia;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;3;Error in reading value (type 4): rs.getBigInt(...) is null
+253;805548508627476480;Entity Extraction;3;https://t.co/MrgQ68fpfy;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;78;Error in reading value (type 4): rs.getBigInt(...) is null
+753;805540012116742144;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+27;805547502736916480;Entity Extraction;3;https://t.co/JNzQJyG2zf;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;36;Error in reading value (type 4): rs.getBigInt(...) is null
+758;805540011919581184;Entity Extraction;3;Army;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;81;Error in reading value (type 4): rs.getBigInt(...) is null
+491;805543618085720064;Entity Extraction;3;Trump;en;StrongPositiveSentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;1
+757;805540011919581184;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+752;805540012116742144;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+747;805540012427120640;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+762;805540011915390976;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+742;805540013240786944;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+113;805550304586596358;Entity Extraction;2;racist;en;AMBIGUOUS_PROFANITY;racist;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;33;Error in reading value (type 4): rs.getBigInt(...) is null
+737;805540013416951812;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+767;805540011915386880;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+732;805540013656064001;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+727;805540013840613376;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+99;805547991436238848;Entity Extraction;2;DineandDish;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+772;805540011907002369;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+120;805549812959629312;Entity Extraction;2;PresidentialElection;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;16;Error in reading value (type 4): rs.getBigInt(...) is null
+722;805540013865713664;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+717;805540014046089216;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+777;805540166345572352;Entity Extraction;2;election2016 night;en;TIME;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;33;Error in reading value (type 4): rs.getBigInt(...) is null
+712;805540027325259777;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+383;805546375660322816;Entity Extraction;2;ipsy06;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+781;805540017674125313;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+389;805546133913096192;Entity Extraction;2;BTP1960;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+996;805540002767589376;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+127;805549774678196225;Entity Extraction;2;ElectionFinalThoughts;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;13;Error in reading value (type 4): rs.getBigInt(...) is null
+786;805540013320482816;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+133;805547694949302272;Entity Extraction;2;Release Trump;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;12;Error in reading value (type 4): rs.getBigInt(...) is null
+700;805540766433112064;Entity Extraction;2;labella_boricua;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+93;805548756804530176;Entity Extraction;2;Mike Pence;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;29;Error in reading value (type 4): rs.getBigInt(...) is null
+791;805540013224050688;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+695;805541003247677440;Entity Extraction;2;IvankaTrump;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+141;805547566955974660;Entity Extraction;2;https://t.co/kybMSgBRHD;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;12;Error in reading value (type 4): rs.getBigInt(...) is null
+689;805541012244303872;Entity Extraction;2;DanielleMuscato;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+796;805540011726622720;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+148;805547280891781120;Entity Extraction;2;https://t.co/esd46H8Pk7;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;17;Error in reading value (type 4): rs.getBigInt(...) is null
+151;805551072890810368;Entity Extraction;2;https://t.co/01OEiUKEzL;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;61;Error in reading value (type 4): rs.getBigInt(...) is null
+680;805541314427166720;Entity Extraction;2;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+801;805540011462430721;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+394;805545394625282049;Entity Extraction;2;AlyLovesMovies;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+375;805546599908679680;Entity Extraction;2;paulegan4;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+86;805549476177973249;Entity Extraction;2;ArtHauntsMe;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+806;805540010891952128;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+399;805545214572109824;Entity Extraction;2;AlyLovesMovies;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+154;805550562234142721;Entity Extraction;2;death rattle;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;47;Error in reading value (type 4): rs.getBigInt(...) is null
+156;805550454985854976;Entity Extraction;2;#MAGA
+Go #TrumpPence16;en;ADDRESS1;;;2;3;Mon, 05 Dec 2016 05:19:06 GMT;76;Error in reading value (type 4): rs.getBigInt(...) is null
+811;805540010871046144;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+160;805549985353891845;Entity Extraction;2;changes strategy;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;11;Error in reading value (type 4): rs.getBigInt(...) is null
+668;805541363345461248;Entity Extraction;2;labella_boricua;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+662;805541773414203392;Entity Extraction;2;Tiffany Trump;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;17;Error in reading value (type 4): rs.getBigInt(...) is null
+816;805540010631970816;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+991;805540003170291712;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+170;805549533212114946;Entity Extraction;2;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;41;Error in reading value (type 4): rs.getBigInt(...) is null
+80;805549548106121216;Entity Extraction;2;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;41;Error in reading value (type 4): rs.getBigInt(...) is null
+821;805540010296418304;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+655;805542390861680640;Entity Extraction;2;Fun;en;WeakPositiveSentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;5;1
+650;805540014675234817;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+176;805548731135381504;Entity Extraction;2;Trump;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;33;Error in reading value (type 4): rs.getBigInt(...) is null
+826;805540010111795200;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+643;805540933198639104;Entity Extraction;2;important;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;23;Error in reading value (type 4): rs.getBigInt(...) is null
+185;805547617744605184;Entity Extraction;2;2016;en;YEAR;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;24;Error in reading value (type 4): rs.getBigInt(...) is null
+637;805540956229562368;Entity Extraction;2;important;en;WeakPositiveSentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;23;1
+831;805540009998630912;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+634;805541122680455172;Entity Extraction;2;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;86;Error in reading value (type 4): rs.getBigInt(...) is null
+194;805547354526982144;Entity Extraction;2;commondreams;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+73;805549998385627136;Entity Extraction;2;ArtHauntsMe;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+836;805540009633644544;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+626;805541178670280704;Entity Extraction;2;Clinton;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;23;Error in reading value (type 4): rs.getBigInt(...) is null
+200;805547236868390912;Entity Extraction;2;Revitalize;en;WeakPositiveSentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;18;1
+71;805550096725250048;Entity Extraction;2;https://t.co/xfbtriDwba;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;54;Error in reading value (type 4): rs.getBigInt(...) is null
+841;805540009541451776;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+619;805541944403165184;Entity Extraction;2;Obama;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;31;Error in reading value (type 4): rs.getBigInt(...) is null
+615;805542727358222336;Entity Extraction;2;#VotingRightsAct;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;63;Error in reading value (type 4): rs.getBigInt(...) is null
+8;805547517291151361;Entity Extraction;2;https://t.co/eLU09phsJN;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;12;Error in reading value (type 4): rs.getBigInt(...) is null
+846;805540007620395008;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+612;805543512116695040;Entity Extraction;2;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;103;Error in reading value (type 4): rs.getBigInt(...) is null
+404;805545048452513792;Entity Extraction;2;LindaSuhler;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+370;805546689826353152;Entity Extraction;2;AlyLovesMovies;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+851;805540009432334336;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+986;805540003904307200;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+981;805540004638244864;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+209;805551062031548416;Entity Extraction;2;hate;en;StrongNegativeSentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;22;1
+856;805540009398779904;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+215;805549845633179650;Entity Extraction;2;Greg_Palast;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+600;805540681963827200;Entity Extraction;2;labella_boricua;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+223;805549461434994688;Entity Extraction;2;sssp_dd;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+861;805540009201668097;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+592;805543334789992448;Entity Extraction;2;DanScavino;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+231;805549420418859008;Entity Extraction;2;mspattila;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+60;805550732762083328;Entity Extraction;2;LindaSuhler;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+866;805540009000333312;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+587;805540014369087488;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+415;805545040911200257;Entity Extraction;2;Bernie2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+580;805540099803021316;Entity Extraction;2;karachiiite;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+871;805540008979402752;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+976;805540005170905088;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+15;805547470109503488;Entity Extraction;2;https://t.co/Hx9sTNmNwa;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;14;Error in reading value (type 4): rs.getBigInt(...) is null
+358;805546908496240640;Entity Extraction;2;funder;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+876;805540008601890816;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+242;805548912534847488;Entity Extraction;2;Greg_Palast;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+105;805547865246461953;Entity Extraction;2;RT @ustvmedia: *This*: 8min of your time well worth spending w/@mcrispinmiller re:the state of our #voting & #election systems & fixing the…;en;Emoticon;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+56;805550819852582912;Entity Extraction;2;oranicuhh;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+881;805540008333438976;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+569;805540636640165888;Entity Extraction;2;LindaSuhler;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+252;805548508627476480;Entity Extraction;2;recount votes;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;35;Error in reading value (type 4): rs.getBigInt(...) is null
+257;805546884748210176;Entity Extraction;2;AlyLovesMovies;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+886;805540008094380032;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+561;805540939716501504;Entity Extraction;2;important;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;23;Error in reading value (type 4): rs.getBigInt(...) is null
+558;805543513156894720;Entity Extraction;2;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;103;Error in reading value (type 4): rs.getBigInt(...) is null
+552;805543401944993792;Entity Extraction;2;2016;en;YEAR;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;24;Error in reading value (type 4): rs.getBigInt(...) is null
+891;805540008018853889;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+550;805543550213492737;Entity Extraction;2;https://t.co/h3iFYGn3iV;ja;URI/URL;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;21;Error in reading value (type 4): rs.getBigInt(...) is null
+262;805546691751358464;Entity Extraction;2;paulegan4;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+47;805548441875136512;Entity Extraction;2;trouble;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;23;Error in reading value (type 4): rs.getBigInt(...) is null
+896;805540006764769280;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+543;805542193574219777;Entity Extraction;2;@Heritage;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;59;Error in reading value (type 4): rs.getBigInt(...) is null
+270;805546479821684737;Entity Extraction;2;Gets Warrant;en;PROP_MISC;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+538;805540015589597184;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+901;805540007595294720;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+533;805540016839499777;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+273;805546328738725889;Entity Extraction;2;Bernie2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+527;805541568388169729;Entity Extraction;2;POLSPhoenix;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+906;805540007389720576;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+524;805543511688933376;Entity Extraction;2;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;103;Error in reading value (type 4): rs.getBigInt(...) is null
+521;805540888810291201;Entity Extraction;2;#election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;56;Error in reading value (type 4): rs.getBigInt(...) is null
+43;805549639000653824;Entity Extraction;2;oranicuhh;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+911;805540006395641856;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+516;805540015195336705;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+280;805546326339551232;Entity Extraction;2;Bernie2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+511;805540015941877760;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+916;805540007523983360;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+506;805540018211078145;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+287;805546287093288960;Entity Extraction;2;https://t.co/gxUuiHjby4;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;41;Error in reading value (type 4): rs.getBigInt(...) is null
+2;805547576661516288;Entity Extraction;2;https://t.co/xSrjFhjbNX;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;14;Error in reading value (type 4): rs.getBigInt(...) is null
+921;805540007414927360;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+498;805541119052288000;Entity Extraction;2;TheSocReview;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+291;805546266788818944;Entity Extraction;2;BTP1960;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+35;805550499382575104;Entity Extraction;2;AndreBlackMount;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+926;805540006882263040;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+490;805543618085720064;Entity Extraction;2;Trump;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+422;805545039854059521;Entity Extraction;2;your favorite political candidate use flexible;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;5;Error in reading value (type 4): rs.getBigInt(...) is null
+33;805550879981977600;Entity Extraction;2;https://t.co/V2TbUfy1JO;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;49;Error in reading value (type 4): rs.getBigInt(...) is null
+931;805540005728788480;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+296;805546002920960001;Entity Extraction;2;ImWithHer;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;17;Error in reading value (type 4): rs.getBigInt(...) is null
+303;805545663450808322;Entity Extraction;2;LdAuerweck;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+480;805543213331312640;Entity Extraction;2;JosephSteinberg;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+936;805540006475354113;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+476;805544200313991172;Entity Extraction;2;JossSheldon;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+971;805540006370521088;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+352;805549680314687488;Entity Extraction;2;LindaSuhler;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+941;805540005896601600;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+469;805543752190361601;Entity Extraction;2;CornellWBrooks;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+429;805544401833488385;Entity Extraction;2;DanScavino;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+26;805547502736916480;Entity Extraction;2;https://t.co/54vxmQCOIn;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;12;Error in reading value (type 4): rs.getBigInt(...) is null
+946;805540004168507392;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+315;805545660300795904;Entity Extraction;2;ArtHauntsMe;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+461;805543850316070912;Entity Extraction;2;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;6;Error in reading value (type 4): rs.getBigInt(...) is null
+457;805543881588621312;Entity Extraction;2;https://t.co/ryJZq0hCGi;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;52;Error in reading value (type 4): rs.getBigInt(...) is null
+951;805540003229011968;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+322;805545604445327362;Entity Extraction;2;ImWithHer;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;17;Error in reading value (type 4): rs.getBigInt(...) is null
+452;805543896138862592;Entity Extraction;2;AlyLovesMovies;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+966;805540000720748544;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+956;805540001832255489;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+445;805544291993092096;Entity Extraction;2;Believe Trump Has 'Mandate;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;21;Error in reading value (type 4): rs.getBigInt(...) is null
+332;805545388937740288;Entity Extraction;2;ImWithHer;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;17;Error in reading value (type 4): rs.getBigInt(...) is null
+21;805548408291389440;Entity Extraction;2;election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;13;Error in reading value (type 4): rs.getBigInt(...) is null
+961;805540000745996288;Entity Extraction;2;key permit;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+342;805545257643442176;Entity Extraction;2;ImWithHer;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;17;Error in reading value (type 4): rs.getBigInt(...) is null
+437;805544067597828096;Entity Extraction;2;commondreams;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;4;Error in reading value (type 4): rs.getBigInt(...) is null
+368;805546908496240640;Entity Extraction;12;imwithher;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;2;2;Mon, 05 Dec 2016 05:19:06 GMT;130;Error in reading value (type 4): rs.getBigInt(...) is null
+710;805540766433112064;Entity Extraction;12;https://t.c;en;URI/URL;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;128;Error in reading value (type 4): rs.getBigInt(...) is null
+678;805541363345461248;Entity Extraction;12;https://t.c;en;URI/URL;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;128;Error in reading value (type 4): rs.getBigInt(...) is null
+610;805540681963827200;Entity Extraction;12;https://t.c;en;URI/URL;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;128;Error in reading value (type 4): rs.getBigInt(...) is null
+313;805545663450808322;Entity Extraction;12;https://t;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;130;Error in reading value (type 4): rs.getBigInt(...) is null
+413;805545048452513792;Entity Extraction;11;https://t.co/B1ofmQJELp;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;108;Error in reading value (type 4): rs.getBigInt(...) is null
+367;805546908496240640;Entity Extraction;11;election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;2;2;Mon, 05 Dec 2016 05:19:06 GMT;116;Error in reading value (type 4): rs.getBigInt(...) is null
+578;805540636640165888;Entity Extraction;11;https://t.co/B1ofmQJELp;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;108;Error in reading value (type 4): rs.getBigInt(...) is null
+609;805540681963827200;Entity Extraction;11;COMETOGETHER;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;115;Error in reading value (type 4): rs.getBigInt(...) is null
+240;805549420418859008;Entity Extraction;11;Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;118;Error in reading value (type 4): rs.getBigInt(...) is null
+69;805550732762083328;Entity Extraction;11;https://t.co/B1ofmQJELp;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;108;Error in reading value (type 4): rs.getBigInt(...) is null
+677;805541363345461248;Entity Extraction;11;COMETOGETHER;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;115;Error in reading value (type 4): rs.getBigInt(...) is null
+312;805545663450808322;Entity Extraction;11;ElectoralCollege;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;113;Error in reading value (type 4): rs.getBigInt(...) is null
+709;805540766433112064;Entity Extraction;11;COMETOGETHER;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;115;Error in reading value (type 4): rs.getBigInt(...) is null
+366;805546908496240640;Entity Extraction;10;#VaginasAgainstTrump;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;2;2;Mon, 05 Dec 2016 05:19:06 GMT;94;Error in reading value (type 4): rs.getBigInt(...) is null
+488;805543213331312640;Entity Extraction;10;InfoSec;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;131;Error in reading value (type 4): rs.getBigInt(...) is null
+340;805545388937740288;Entity Extraction;10;https://t.co/XMhfEhZBfu;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;114;Error in reading value (type 4): rs.getBigInt(...) is null
+577;805540636640165888;Entity Extraction;10;https://t.co/l8bOWpOedS;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;84;Error in reading value (type 4): rs.getBigInt(...) is null
+68;805550732762083328;Entity Extraction;10;https://t.co/l8bOWpOedS;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;84;Error in reading value (type 4): rs.getBigInt(...) is null
+350;805545257643442176;Entity Extraction;10;https://t.co/CPPFsR6gNg;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;114;Error in reading value (type 4): rs.getBigInt(...) is null
+239;805549420418859008;Entity Extraction;10;TrumpLandslide;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;102;Error in reading value (type 4): rs.getBigInt(...) is null
+168;805549985353891845;Entity Extraction;10;https://t.co/L7uwlxkoX6;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;112;Error in reading value (type 4): rs.getBigInt(...) is null
+676;805541363345461248;Entity Extraction;10;election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;101;Error in reading value (type 4): rs.getBigInt(...) is null
+311;805545663450808322;Entity Extraction;10;Denial;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;105;Error in reading value (type 4): rs.getBigInt(...) is null
+412;805545048452513792;Entity Extraction;10;https://t.co/l8bOWpOedS;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;84;Error in reading value (type 4): rs.getBigInt(...) is null
+708;805540766433112064;Entity Extraction;10;election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;101;Error in reading value (type 4): rs.getBigInt(...) is null
+608;805540681963827200;Entity Extraction;10;election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;2;Mon, 05 Dec 2016 05:19:07 GMT;101;Error in reading value (type 4): rs.getBigInt(...) is null
+330;805545604445327362;Entity Extraction;10;https://t.co/to3a7L4J5D;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;115;Error in reading value (type 4): rs.getBigInt(...) is null
+250;805548912534847488;Entity Extraction;10;E;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;138;Error in reading value (type 4): rs.getBigInt(...) is null
+126;805549774678196225;Entity Extraction;1;#TrumpTrain;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+835;805540009633644544;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+1;805547576661516288;Entity Extraction;1;#IwillVote;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;2;Error in reading value (type 4): rs.getBigInt(...) is null
+428;805544401833488385;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+153;805550562234142721;Entity Extraction;1;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;28;Error in reading value (type 4): rs.getBigInt(...) is null
+505;805540018211078145;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+840;805540009541451776;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+261;805546691751358464;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+599;805540681963827200;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+184;805547617744605184;Entity Extraction;1;#Chomsky;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+34;805550499382575104;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+845;805540007620395008;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+222;805549461434994688;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+711;805540027325259777;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+510;805540015941877760;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+369;805546689826353152;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+850;805540009432334336;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+314;805545660300795904;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+436;805544067597828096;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+716;805540014046089216;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+155;805550454985854976;Entity Extraction;1;Massachusetts;en;REGION/MAJOR;;;1;2;Mon, 05 Dec 2016 05:19:06 GMT;6;Error in reading value (type 4): rs.getBigInt(...) is null
+855;805540009398779904;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+515;805540015195336705;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+42;805549639000653824;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+7;805547517291151361;Entity Extraction;1;#IwillVote;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+721;805540013865713664;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+860;805540009201668097;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+611;805543512116695040;Entity Extraction;1;BIGOT FITS Liberal Progressive Democrats;en;ORGANIZATION/OTHER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+374;805546599908679680;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+92;805548756804530176;Entity Extraction;1;Donald Trump;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;12;Error in reading value (type 4): rs.getBigInt(...) is null
+614;805542727358222336;Entity Extraction;1;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+865;805540009000333312;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+726;805540013840613376;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+520;805540888810291201;Entity Extraction;1;Alec;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;17;Error in reading value (type 4): rs.getBigInt(...) is null
+269;805546479821684737;Entity Extraction;1;FBI;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;11;Error in reading value (type 4): rs.getBigInt(...) is null
+159;805549985353891845;Entity Extraction;1;#JillStein;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+870;805540008979402752;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+618;805541944403165184;Entity Extraction;1;Hillary;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+731;805540013656064001;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+523;805543511688933376;Entity Extraction;1;BIGOT FITS Liberal Progressive Democrats;en;ORGANIZATION/OTHER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+444;805544291993092096;Entity Extraction;1;Americans;en;PEOPLE;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;5;Error in reading value (type 4): rs.getBigInt(...) is null
+875;805540008601890816;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+321;805545604445327362;Entity Extraction;1;#NotMyPresident;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+526;805541568388169729;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+736;805540013416951812;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+132;805547694949302272;Entity Extraction;1;FBI;en;ORGANIZATION/GOVERNMENT;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;8;Error in reading value (type 4): rs.getBigInt(...) is null
+880;805540008333438976;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+272;805546328738725889;Entity Extraction;1;https://t.co/agY0wj2CKg;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+625;805541178670280704;Entity Extraction;1;Secretary;en;TITLE;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;13;Error in reading value (type 4): rs.getBigInt(...) is null
+20;805548408291389440;Entity Extraction;1;#saylov2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+741;805540013240786944;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+885;805540008094380032;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+382;805546375660322816;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+230;805549420418859008;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+532;805540016839499777;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+451;805543896138862592;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+890;805540008018853889;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+746;805540012427120640;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+193;805547354526982144;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+112;805550304586596358;Entity Extraction;1;racist or sexist!" - girl 1;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;33;Error in reading value (type 4): rs.getBigInt(...) is null
+633;805541122680455172;Entity Extraction;1;#Peace;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;78;Error in reading value (type 4): rs.getBigInt(...) is null
+895;805540006764769280;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+25;805547502736916480;Entity Extraction;1;#IwillVote;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+751;805540012116742144;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+537;805540015589597184;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+636;805540956229562368;Entity Extraction;1;important;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;23;Error in reading value (type 4): rs.getBigInt(...) is null
+900;805540007595294720;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+79;805549548106121216;Entity Extraction;1;6 Days;en;TIME_PERIOD;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;28;Error in reading value (type 4): rs.getBigInt(...) is null
+456;805543881588621312;Entity Extraction;1;J. Lassiter;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;9;Error in reading value (type 4): rs.getBigInt(...) is null
+756;805540011919581184;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+388;805546133913096192;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+905;805540007389720576;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+279;805546326339551232;Entity Extraction;1;https://t.co/1Plh05gcmC;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+542;805542193574219777;Entity Extraction;1;Photo ID;en;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+642;805540933198639104;Entity Extraction;1;important;en;WeakPositiveSentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;23;2
+761;805540011915390976;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+910;805540006395641856;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+331;805545388937740288;Entity Extraction;1;#NotMyPresident;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+460;805543850316070912;Entity Extraction;1;#GOP;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+55;805550819852582912;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+46;805548441875136512;Entity Extraction;1;trouble;en;MinorProblem;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;23;2
+915;805540007523983360;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+766;805540011915386880;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+393;805545394625282049;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+199;805547236868390912;Entity Extraction;1;Revitalize the hardest-hit manufacturing communities;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;18;Error in reading value (type 4): rs.getBigInt(...) is null
+649;805540014675234817;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+920;805540007414927360;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+549;805543550213492737;Entity Extraction;1;規制改革;ja;NOUN_GROUP;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;9;Error in reading value (type 4): rs.getBigInt(...) is null
+771;805540011907002369;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+98;805547991436238848;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+551;805543401944993792;Entity Extraction;1;Henry Mendez Chavajay;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;2;Error in reading value (type 4): rs.getBigInt(...) is null
+925;805540006882263040;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+140;805547566955974660;Entity Extraction;1;#IwillVote;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+654;805542390861680640;Entity Extraction;1;More Fun;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+776;805540166345572352;Entity Extraction;1;@MSNBC;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;25;Error in reading value (type 4): rs.getBigInt(...) is null
+169;805549533212114946;Entity Extraction;1;6 Days;en;TIME_PERIOD;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;28;Error in reading value (type 4): rs.getBigInt(...) is null
+930;805540005728788480;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+468;805543752190361601;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+398;805545214572109824;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+780;805540017674125313;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+286;805546287093288960;Entity Extraction;1;Mariah;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;1;Error in reading value (type 4): rs.getBigInt(...) is null
+935;805540006475354113;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+557;805543513156894720;Entity Extraction;1;BIGOT FITS Liberal Progressive Democrats;en;ORGANIZATION/OTHER;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+241;805548912534847488;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+661;805541773414203392;Entity Extraction;1;Donald Trump;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;3;Error in reading value (type 4): rs.getBigInt(...) is null
+785;805540013320482816;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+940;805540005896601600;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+14;805547470109503488;Entity Extraction;1;#IwillVote;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;2;Error in reading value (type 4): rs.getBigInt(...) is null
+560;805540939716501504;Entity Extraction;1;important;en;WeakPositiveSentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;23;2
+341;805545257643442176;Entity Extraction;1;#NotMyPresident;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+403;805545048452513792;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+945;805540004168507392;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+790;805540013224050688;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+475;805544200313991172;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+667;805541363345461248;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+119;805549812959629312;Entity Extraction;1;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+950;805540003229011968;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+290;805546266788818944;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+795;805540011726622720;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+32;805550879981977600;Entity Extraction;1;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;26;Error in reading value (type 4): rs.getBigInt(...) is null
+479;805543213331312640;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+955;805540001832255489;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+568;805540636640165888;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+70;805550096725250048;Entity Extraction;1;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;40;Error in reading value (type 4): rs.getBigInt(...) is null
+800;805540011462430721;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+207;805545817813594112;Entity Extraction;1;clinton;en;PERSON;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+960;805540000745996288;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+208;805551062031548416;Entity Extraction;1;hate incidents;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;22;Error in reading value (type 4): rs.getBigInt(...) is null
+295;805546002920960001;Entity Extraction;1;#NotMyPresident;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+85;805549476177973249;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+805;805540010891952128;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+965;805540000720748544;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+175;805548731135381504;Entity Extraction;1;#Election2016;en;SOCIAL_MEDIA/TOPIC_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;19;Error in reading value (type 4): rs.getBigInt(...) is null
+679;805541314427166720;Entity Extraction;1;RT @RichardAngwin: Following #Election2016 Mexicans concoct plan to get through border wall #Trump promises to build :);en;Emoticon;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+351;805549680314687488;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+414;805545040911200257;Entity Extraction;1;https://t.co/Qt292CTgMa;en;URI/URL;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+970;805540006370521088;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+810;805540010871046144;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+59;805550732762083328;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+489;805543618085720064;Entity Extraction;1;Trump;en;Sentiment;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+579;805540099803021316;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+975;805540005170905088;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+251;805548508627476480;Entity Extraction;1;@AuditStein;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;23;Error in reading value (type 4): rs.getBigInt(...) is null
+815;805540010631970816;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+147;805547280891781120;Entity Extraction;1;@yanisvaroufakis;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+104;805547865246461953;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+980;805540004638244864;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+688;805541012244303872;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+302;805545663450808322;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+820;805540010296418304;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+357;805546908496240640;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+985;805540003904307200;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+421;805545039854059521;Entity Extraction;1;your favorite political candidate use;en;Topic;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;5;2
+586;805540014369087488;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+214;805549845633179650;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+825;805540010111795200;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+990;805540003170291712;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+694;805541003247677440;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+497;805541119052288000;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+72;805549998385627136;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+256;805546884748210176;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+995;805540002767589376;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+830;805540009998630912;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
+591;805543334789992448;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+699;805540766433112064;Entity Extraction;1;RT;en;ORGANIZATION/MEDIA;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;0;Error in reading value (type 4): rs.getBigInt(...) is null
+150;805551072890810368;Entity Extraction;1;@NancyPelosi;en;SOCIAL_MEDIA/ID_TWITTER;;;1;1;Mon, 05 Dec 2016 05:19:06 GMT;48;Error in reading value (type 4): rs.getBigInt(...) is null
+1000;805540002218151936;Entity Extraction;1;US;en;COUNTRY;;;1;1;Mon, 05 Dec 2016 05:19:07 GMT;15;Error in reading value (type 4): rs.getBigInt(...) is null
